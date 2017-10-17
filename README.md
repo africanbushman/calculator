@@ -17,7 +17,7 @@ For the best viewing experience please use a laptop or desktop and if possible u
 
 ## Here is the link to the live site on GitHub pages
 
-  https:
+  https:https://africanbushman.github.io/calculator/
 
 ## Known Bugs
 
