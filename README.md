@@ -25,7 +25,7 @@ They are no known Bugs at this time but is you find any please feel free to cont
 
 ## Technologies Used
 
-The technologies used are as follows HTML, CSS, bootstrap and JavaScript.
+The technologies used are as follows HTML, CSS, bootstrap, JavaScript and jquery.
 
 ## Support and contact details
 
